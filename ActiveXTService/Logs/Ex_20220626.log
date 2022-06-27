@@ -1,0 +1,935 @@
+2022-06-26T21:33:08.8595032+06:00 [INF] (ActiveXTService.Worker) Statr
+2022-06-26T21:33:11.6024671+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:33:12.8444317+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:33:13.3615502+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:33:13.4012088+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:33:13.4437580+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:33:13.6381111+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:33:13.6904002+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:33:13.6904550+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done. File No::--2
+2022-06-26T21:33:13.7189678+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--2
+2022-06-26T21:33:13.7220741+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--2
+2022-06-26T21:33:13.7233944+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--2
+2022-06-26T21:33:13.7234348+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done. File No::--3
+2022-06-26T21:33:13.7499414+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--3
+2022-06-26T21:33:13.7527700+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--3
+2022-06-26T21:33:13.7542410+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--3
+2022-06-26T21:33:13.7542975+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done. File No::--4
+2022-06-26T21:33:13.7543742+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:33:13.7736991+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:33:13.7761790+06:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2022-06-26T21:33:13.7763635+06:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2022-06-26T21:33:13.7769424+06:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\temp\ActiveXTService"
+2022-06-26T21:33:19.7963901+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:33:19.8019579+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:33:20.1996590+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:33:20.2357828+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:33:20.2358686+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:33:20.2454720+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:33:26.2452061+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:33:26.2465169+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:33:26.6221090+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:33:26.6487424+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:33:26.6488266+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:33:26.6574291+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:33:32.6733314+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:33:32.6744726+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:33:33.1066449+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:33:33.1326099+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:33:33.1326794+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:33:33.1404305+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:33:39.1467161+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:33:39.1483628+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:33:39.5719663+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:33:39.5995928+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:33:39.5996806+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:33:39.6084542+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:33:45.6121761+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:33:45.6147397+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:33:46.0256706+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:33:46.0537760+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:33:46.0538876+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:33:46.0614623+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:33:52.0677022+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:33:52.0690635+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:33:52.4509117+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:33:52.4905793+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:33:52.4907082+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:33:52.5005050+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:33:58.5090602+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:33:58.5116487+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:33:58.9139179+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:33:58.9380513+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:33:58.9380914+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:33:58.9457571+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:34:04.9586870+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:34:04.9602534+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:34:05.3673437+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:34:05.3905077+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:34:05.3906075+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:34:05.3976157+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:34:11.4002009+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:34:11.4032087+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:34:11.8047677+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:34:11.8333751+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:34:11.8334851+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:34:11.8416494+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:34:17.8425213+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:34:17.8448379+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:34:18.2553852+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:34:18.2828838+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:34:18.2830042+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:34:18.2915450+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:34:24.3059294+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:34:24.3071121+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:34:24.7184836+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:34:24.7509068+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:34:24.7510014+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:34:24.7596504+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:34:30.7768695+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:34:30.7793093+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:34:31.1854798+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:34:31.2205591+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:34:31.2206925+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:34:31.2288644+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:34:37.2374575+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:34:37.2400450+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:34:37.6538932+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:34:37.6832973+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:34:37.6834031+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:34:37.6938108+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:34:43.7167019+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:34:43.7189866+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:34:44.1699415+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:34:44.1968399+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:34:44.1969686+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:34:44.2089165+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:34:50.2129240+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:34:50.2205597+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:34:50.6376492+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:34:50.6900269+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:34:50.6901248+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:34:50.7061815+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:34:56.7305582+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:34:56.7329995+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:34:57.1217326+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:34:57.1553545+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:34:57.1554699+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:34:57.1658080+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:35:03.1710356+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:35:03.1722963+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:35:03.5816070+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:35:03.6109028+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:35:03.6109568+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:35:03.6197326+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:39:45.5161160+06:00 [INF] (ActiveXTService.Worker) Statr
+2022-06-26T21:39:51.0295801+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:39:58.3615299+06:00 [ERR] (Microsoft.EntityFrameworkCore.Database.Connection) An error occurred using the connection to database '"SftpDb"' on server '""'.
+2022-06-26T21:39:58.5139242+06:00 [ERR] (Microsoft.EntityFrameworkCore.Query) An exception occurred while iterating over the results of a query for context type '"ActiveXTService.Data.SftpDataContext"'."
+""System.InvalidOperationException: An exception has been raised that is likely due to a transient failure.
+ ---> Npgsql.NpgsqlException (0x80004005): Failed to connect to 127.0.0.1:5432
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|191_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.ConnectorPool.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.ConnectorPool.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__19_0(DbContext _, Enumerator enumerator)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   --- End of inner exception stack trace ---
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()"
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure.
+ ---> Npgsql.NpgsqlException (0x80004005): Failed to connect to 127.0.0.1:5432
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|191_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.ConnectorPool.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.ConnectorPool.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__19_0(DbContext _, Enumerator enumerator)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   --- End of inner exception stack trace ---
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+2022-06-26T21:40:06.7577963+06:00 [ERR] (ActiveXTService.Worker) 1.1::--MaxTime Error
+2022-06-26T21:41:06.1850853+06:00 [INF] (ActiveXTService.Worker) Statr
+2022-06-26T21:41:06.2588173+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:41:07.7263610+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:41:08.3413727+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:41:08.3767016+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:41:08.3775401+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:41:08.3987318+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:41:08.4024424+06:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2022-06-26T21:41:08.4028654+06:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2022-06-26T21:41:08.4040293+06:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\temp\ActiveXTService"
+2022-06-26T21:41:14.4236809+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:41:14.4696410+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:41:15.0235328+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:41:15.0834092+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:41:15.0835172+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:41:15.0927654+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:41:21.1005489+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:41:21.1472712+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:41:21.5526924+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:41:21.5825102+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:41:21.5827086+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:41:21.5910285+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:41:27.5978920+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:41:27.6004835+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:41:28.2023529+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:41:28.2367715+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:41:28.2368508+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:41:28.2460497+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:41:34.2600971+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:41:34.2626233+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:41:34.6523234+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:41:34.7061327+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:41:34.7062179+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:41:34.7173376+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:41:40.7287845+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:41:40.7311937+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:41:41.2198367+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:41:41.2521994+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:41:41.2522544+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:41:41.2611442+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:41:47.2723602+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:41:47.2744177+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:41:47.8117139+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:41:47.8452667+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:41:47.8453512+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:41:47.8547542+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:41:53.8611903+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:41:53.8628784+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:41:54.5481235+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:41:54.6234174+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:41:54.6235187+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:41:54.6584883+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:42:00.6771185+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:42:00.6797551+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:42:01.0118315+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:42:01.0363156+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:42:01.0363798+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:42:01.0438168+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:42:07.0565036+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:42:07.0598513+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:42:07.6851930+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:42:07.7120962+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:42:07.7121482+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:42:07.7200255+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:42:13.7229264+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:42:13.7253169+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:42:14.1226116+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:42:14.1583460+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:42:14.1584399+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:42:14.1773234+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:42:20.1856722+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:42:20.1878310+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:42:20.7414202+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:42:20.7966106+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:42:20.7967391+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:42:20.8072261+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:42:26.8109754+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:42:26.8137917+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:42:27.3728619+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:42:27.4027253+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:42:27.4028164+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:42:27.4123099+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:42:33.4243227+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:42:33.4263065+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:42:33.8473744+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:42:33.8728200+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:42:33.8728973+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:42:33.8801547+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:42:39.8967927+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:42:39.8996662+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:42:40.3198378+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:42:40.4133884+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:42:40.4134928+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:42:40.4280512+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:42:46.4408347+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:42:46.4429995+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:42:46.9108512+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:42:46.9371828+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:42:46.9372666+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:42:46.9450168+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:42:52.9511180+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:42:52.9534920+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:42:53.3992452+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:42:53.5136525+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:42:53.5137471+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:42:53.5471102+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:42:59.5532169+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:42:59.5545156+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:42:59.9836407+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:43:00.0135431+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:43:00.0136421+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:43:00.0249263+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:43:06.0270699+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:43:06.0281241+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:43:06.4018325+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:43:06.4269927+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:43:06.4270542+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:43:06.4351521+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:43:12.4367863+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:43:12.4385687+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:43:12.9580951+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:43:12.9816244+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:43:12.9817106+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:43:12.9896716+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:43:19.0150420+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:43:19.0175509+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:43:19.4025933+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:43:19.4326981+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:43:19.4327825+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:43:19.4415613+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:43:25.4478054+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:43:25.4524476+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:43:25.9027203+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:43:25.9285910+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:43:25.9827610+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:43:26.2498457+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:43:26.2644783+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:43:26.2645362+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:43:26.2645491+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:43:26.2779151+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:43:32.2920175+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:43:32.2936604+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:43:32.6813166+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:43:32.7052593+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:43:32.7299395+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:43:32.7336651+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:43:32.7355657+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:43:32.7356031+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:43:32.7356122+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:43:32.7435644+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:43:38.7552694+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:43:38.7574715+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:43:39.1853407+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:43:39.2213305+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:43:39.2537284+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:43:39.2592871+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:43:39.2621381+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:43:39.2623029+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:43:39.2623217+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:43:39.2697160+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:43:45.2746111+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:43:45.2779211+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:43:45.6365749+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:43:45.6667862+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:43:45.7009415+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:43:45.7066308+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:43:45.7089684+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:43:45.7090523+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:43:45.7090843+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:43:45.7177567+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:43:51.7196887+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:43:51.7210226+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:43:52.2420464+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:43:52.3117637+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:43:52.6415780+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:43:52.6465599+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:43:52.6489352+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:43:52.6490201+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:43:52.6490508+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:43:52.6693737+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:43:58.6759865+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:43:58.6779275+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:43:59.0884400+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:43:59.1222751+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:43:59.1490039+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:43:59.1514948+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:43:59.1525874+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:43:59.1526272+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:43:59.1526387+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:43:59.1610278+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:44:05.1633851+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:44:05.1643977+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:44:05.9432230+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:44:05.9974247+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:44:06.0348577+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:44:06.0381420+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:44:06.0389330+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:44:06.0389672+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:44:06.0657431+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--2
+2022-06-26T21:44:06.0725947+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--2
+2022-06-26T21:44:06.0739871+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--2
+2022-06-26T21:44:06.0740391+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:44:06.0740502+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:44:06.0897479+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:44:12.0926889+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:44:12.0939860+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:44:12.4306183+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:44:12.6699107+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:44:12.6946754+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:44:12.7183890+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:44:12.7200551+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:44:12.7201298+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:44:12.7201522+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:44:12.7284718+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:44:18.7332194+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:44:18.7350596+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:44:19.1487028+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:44:19.1745483+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:44:19.1978989+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:44:19.2013518+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:44:19.2033652+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:44:19.2034375+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:44:19.2034688+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:44:19.2113838+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:44:25.2182181+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:44:25.2198290+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:44:25.5877726+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:44:25.6202002+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:44:25.6503515+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:44:25.6550337+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:44:25.6570407+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:44:25.6571357+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:44:25.6571611+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:44:25.6740505+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:44:31.6983069+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:44:31.7000400+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:44:32.2101634+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:44:32.3785328+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:44:32.4536969+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:44:32.4591108+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:44:32.4611491+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:44:32.4612084+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:44:32.4612267+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:44:32.4869940+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:44:38.4936131+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:44:38.4955172+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:44:38.9529269+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:44:38.9800575+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:44:39.0529627+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:44:39.0580261+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:44:39.0602644+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:44:39.0603169+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:44:39.0603358+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:44:39.0690398+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:44:45.0781146+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:44:45.0791430+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:44:45.4920286+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:44:45.5191847+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:44:45.5520207+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:44:45.5551018+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:44:45.5569481+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:44:45.5570251+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:44:45.5570851+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:44:45.5659068+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:44:51.5766454+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:44:51.5779523+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:44:52.2144111+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:44:52.2706613+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:44:52.2956450+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:44:52.2981619+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:44:52.2992347+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:44:52.2992725+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:44:52.2992833+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:44:52.3059344+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:44:58.3201243+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:44:58.3210995+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:44:58.7791691+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:44:58.8526596+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:44:58.8986253+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:44:58.9041548+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:44:58.9061821+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:44:58.9062437+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:44:58.9062623+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:44:58.9153044+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:45:04.9249226+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:45:04.9264261+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:45:05.4627206+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:45:05.4878644+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:45:05.5370121+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:45:05.5417247+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:45:05.5431368+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:45:05.5431766+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:45:05.5432076+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:45:05.5916769+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:45:16.7313148+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:45:24.3461471+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:45:43.3137762+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:53:07.1233328+06:00 [INF] (ActiveXTService.Worker) Statr
+2022-06-26T21:53:13.0112147+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:53:15.8009978+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:53:21.8519295+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:54:04.1857967+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T21:54:04.2313735+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T21:54:04.4215493+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T21:54:04.4733684+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T21:54:04.4734202+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T21:54:04.4734556+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T21:54:04.4928595+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T21:54:04.4947834+06:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2022-06-26T21:54:04.4949402+06:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2022-06-26T21:54:04.4953624+06:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\temp\ActiveXTService"
+2022-06-26T21:54:16.4044541+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:54:45.1876284+06:00 [INF] (ActiveXTService.Worker) Statr
+2022-06-26T21:54:49.3151253+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:56:01.9300012+06:00 [INF] (ActiveXTService.Worker) Statr
+2022-06-26T21:56:04.1500152+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:56:17.8206608+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:56:25.4635430+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:59:33.6066466+06:00 [INF] (ActiveXTService.Worker) Statr
+2022-06-26T21:59:35.7845771+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T21:59:40.5545503+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T21:59:49.3535022+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T21:59:57.1318820+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:00:09.6395830+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:00:09.6665443+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:00:09.6694501+06:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2022-06-26T22:00:09.6697657+06:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2022-06-26T22:00:09.6707281+06:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\temp\ActiveXTService"
+2022-06-26T22:00:15.6786279+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:00:15.7201138+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:00:16.1003744+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:00:16.1282390+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:00:16.1283470+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:00:16.1376806+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:00:22.1495493+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:00:22.1923645+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:00:23.6030857+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:00:23.6420727+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:00:23.6422067+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:00:23.6523523+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:00:29.6570716+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:00:29.6600944+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:00:30.0236317+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:00:30.0626955+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:00:30.0627735+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:00:30.0708556+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:00:36.0824767+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:00:36.0838066+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:00:36.5057895+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:00:36.5372626+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:00:36.5373296+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:00:36.5459085+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:00:42.5583235+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:00:42.5598957+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:00:42.9715408+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:00:43.0060971+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:00:43.0061702+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:00:43.0149085+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:00:49.0181283+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:00:49.0197287+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:00:49.4245394+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:00:49.4491499+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:00:49.4492142+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:00:49.4577528+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:00:55.4756972+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:00:55.4771182+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:00:55.8650649+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:00:55.8953801+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:00:55.8954802+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:00:55.9048823+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:01:01.9124125+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:01:01.9142574+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:01:02.3612870+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:01:02.3893375+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:01:02.3894138+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:01:02.3975908+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:01:08.4035413+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:01:08.4050029+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:01:08.9042976+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:01:08.9308175+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:01:08.9308717+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:01:08.9393176+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:01:14.9539342+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:01:14.9553337+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:01:15.4113769+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:01:15.4418154+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:01:15.4419039+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:01:15.4498295+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:01:21.4545091+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:01:21.4567392+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:01:22.0168940+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:01:22.0412613+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:01:22.0413079+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:01:22.0508656+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:01:28.0598577+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:01:28.0619718+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:01:28.5113292+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:01:28.5639622+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:01:28.5640480+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:01:28.5727423+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:01:34.5761393+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:01:34.5778570+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:01:34.9886214+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:01:35.0153083+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:01:35.0535778+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T22:01:35.2496113+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T22:01:35.2629722+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T22:01:35.2630274+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T22:01:35.2630439+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:01:35.2716243+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:01:41.2724386+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:01:41.2752126+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:01:41.6940545+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:01:41.7214209+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:01:41.7215197+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:01:41.7301214+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:01:47.7416235+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:01:47.7428079+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:01:48.2771702+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:01:48.3708263+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:01:48.3708844+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:01:48.3898398+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:01:54.3954533+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:01:54.3972001+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:01:54.8328217+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:01:54.8638194+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:01:54.8639418+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:01:54.8742345+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:02:00.8856888+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:02:00.8879647+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:02:01.5536084+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:02:01.5853327+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:02:01.5854136+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:02:01.5942315+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:02:07.6035372+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:02:07.6052838+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:02:08.0362014+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:02:08.0603197+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:02:08.0603860+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:02:08.0688032+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:02:14.0831471+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:02:14.0855579+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:02:14.4830285+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:02:14.5091681+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:02:14.5092944+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:02:14.5183218+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:02:20.5354243+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:02:20.5377942+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:02:21.0198996+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:02:21.0487817+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:02:21.0488432+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:02:21.0583723+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:02:27.0676462+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:02:27.0695813+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:02:27.4387993+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:02:27.4661797+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:02:27.4662540+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:02:27.4753296+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:02:33.4835319+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:02:33.4857493+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:02:33.8759601+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:02:33.9027668+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:02:33.9028224+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:02:33.9112116+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:02:39.9150678+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:02:39.9163964+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:02:40.3460044+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:02:40.3747159+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:02:40.3748025+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:02:40.3833384+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:02:46.3868881+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:02:46.3887832+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:02:46.8784136+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:02:46.9023342+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:02:46.9023996+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:02:46.9108545+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:02:52.9172625+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:02:52.9189290+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:02:53.5225448+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:02:53.5496379+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:02:53.5497430+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:02:53.5582533+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:02:59.5738502+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:02:59.5764594+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:02:59.9838382+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:03:00.0495709+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:03:00.0497419+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:03:00.0572378+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:03:06.0679741+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:03:06.0700481+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:03:06.4837368+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:03:06.5272231+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:03:06.5273835+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:03:06.5399585+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:03:12.5507122+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:03:12.5535933+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:03:12.9833313+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:03:13.0165092+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:03:13.0165622+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:03:13.0376515+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:03:19.0448808+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:03:19.0462624+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:03:19.4514866+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:03:19.4753772+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:03:19.4755167+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:03:19.4849815+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:03:25.4896667+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:03:25.4916990+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:03:25.9037536+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:03:25.9319909+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:03:25.9320747+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:03:25.9392820+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:03:31.9573604+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:03:31.9591925+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:03:32.3425858+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:03:32.3705439+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:03:32.3706435+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:03:32.3787292+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:03:38.3891482+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:03:38.3913984+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:03:38.8127058+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:03:38.8379744+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:03:38.8380210+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:03:38.8461148+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:03:44.8683112+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:03:44.8701826+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:03:45.3089907+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:03:45.3349798+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:03:45.3350272+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:03:45.3445765+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:03:51.3528100+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:03:51.3546854+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:03:51.7785356+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:03:51.8130298+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:03:51.8131457+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:03:51.8219637+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:03:57.8266151+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:03:57.8282310+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:03:58.1986406+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:03:58.2269948+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:03:58.2271161+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:03:58.2350701+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:04:04.2443528+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:04:04.2458710+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:04:04.6518289+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:04:04.6763832+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:04:04.6765257+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:04:04.6844190+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:04:10.6872762+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:04:10.6891008+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:04:11.1400507+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:04:11.1665091+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:04:11.1666109+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:04:11.1765389+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:04:17.1872905+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:04:17.1884873+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:04:17.5725099+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:04:17.5965307+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:04:17.5966214+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:04:17.6050824+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:04:23.6119848+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:04:23.6138043+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:04:23.9671906+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:04:24.0024750+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:04:24.0025570+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:04:24.0112798+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:04:30.0159913+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:04:30.0172521+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:04:30.4338907+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:04:30.4605812+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:04:30.4607418+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:04:30.4704238+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:04:36.4845975+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:04:36.4866099+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:04:36.8988053+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:04:36.9236963+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:04:36.9237675+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:04:36.9323708+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:04:42.9392656+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:04:42.9404921+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:04:43.3547708+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:04:43.3772129+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:04:43.3772694+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:04:43.3868585+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:04:49.3941830+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:04:49.3962221+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:04:49.8656788+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:04:49.9591320+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:04:49.9592332+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:04:49.9923554+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:04:56.0039209+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:04:56.0421771+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:04:56.4363247+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:04:56.4672548+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:04:56.4673387+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:04:56.4768054+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:05:02.4803526+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:05:02.4824685+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:05:02.9606893+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:05:02.9832927+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:05:02.9833449+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:05:02.9913817+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:05:09.0095454+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:05:09.0112563+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:05:09.4746073+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:05:09.5011046+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:05:09.5012105+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:05:09.5099940+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:05:15.5308608+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:05:15.5327857+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:05:15.9147104+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:05:15.9451767+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:05:15.9452411+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:05:15.9532521+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:05:21.9598846+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:05:21.9612923+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:05:22.3624814+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:05:22.3891827+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:05:22.3892898+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:05:22.3977683+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:05:28.4046603+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:05:28.4070683+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:05:29.0300685+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:05:29.0634050+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:05:29.0635004+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:05:29.0704205+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:05:35.0841040+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:05:35.0859470+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:05:35.5002445+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:05:35.5274182+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:05:35.5275175+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:05:35.5374281+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:05:41.5540222+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:05:41.5558751+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:05:41.9162599+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:05:41.9432046+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:05:41.9432494+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:05:41.9526757+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:05:47.9541520+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:05:47.9558275+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:05:48.3397345+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:05:48.3693680+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:05:48.3694483+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:05:48.3806792+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:05:54.3840387+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:05:54.3848873+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:05:54.7798707+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:05:54.8241441+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:05:54.8241960+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:05:54.8322912+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:06:00.8346856+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:06:00.8366284+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:06:01.3245760+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:06:01.3548089+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:06:01.3548943+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:06:01.3630422+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:06:07.3728610+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:06:07.3741826+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:06:28.4469529+06:00 [ERR] (ActiveXTService.Worker) SFTP server connect fail::A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2022-06-26T22:06:28.4470167+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:06:28.4478332+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:06:49.5046728+06:00 [ERR] (ActiveXTService.Worker) SFTP server connect fail::A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2022-06-26T22:06:49.5048443+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:06:49.5057821+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:07:10.5878135+06:00 [ERR] (ActiveXTService.Worker) SFTP server connect fail::A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2022-06-26T22:07:10.5878970+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:07:10.5889813+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:07:31.6711773+06:00 [ERR] (ActiveXTService.Worker) SFTP server connect fail::A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2022-06-26T22:07:31.6713086+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:07:31.6727731+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:07:33.0954435+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:07:33.1361289+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:07:33.1362124+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:07:33.1445107+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:07:39.1671437+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:07:39.1690584+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:07:39.5953550+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:07:39.6244239+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:07:39.6245165+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:07:39.6325707+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:07:45.6467323+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:07:45.6486865+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:07:46.0905789+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:07:46.3310722+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:07:46.3311357+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:07:46.3405048+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:07:52.3528267+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:07:52.3544607+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:07:52.7977669+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:07:52.8284997+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:07:52.8286321+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:07:52.8389913+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:07:58.8585870+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:07:58.8605602+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:07:59.3815686+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:07:59.4104919+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:07:59.4441932+06:00 [INF] (ActiveXTService.Worker) 5::--SFTP File download and write to disc--Success . File No::--1
+2022-06-26T22:07:59.4580834+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File write to DB--Success . File No::--1
+2022-06-26T22:07:59.4604823+06:00 [INF] (ActiveXTService.Worker) 7::--Log write to DB--Success . File No::--1
+2022-06-26T22:07:59.4605242+06:00 [INF] (ActiveXTService.Worker) 6::--SFTP File Write to disk and DB done.
+2022-06-26T22:07:59.4605418+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:07:59.4713676+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:08:05.4763865+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:08:05.4776436+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:08:05.9537309+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:08:05.9931133+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:08:05.9931991+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:08:06.0036263+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:08:12.0269025+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:08:12.0284358+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:08:12.6771279+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:08:12.7064594+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:08:12.7065254+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:08:12.7160623+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:08:18.7240217+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:08:18.7253640+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:08:19.1598213+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:08:19.2166328+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:08:19.2166804+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:08:19.2290086+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:08:25.2535954+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:08:25.2546116+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:08:25.6359345+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:08:25.6675586+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:08:25.6676671+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:08:25.6768367+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:08:31.6934612+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:08:31.6959585+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:08:32.1848067+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:08:32.2190106+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:08:32.2190719+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:08:32.2266296+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:08:38.2403395+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:08:38.2414091+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:08:38.6161181+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:08:38.6472074+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:08:38.6473637+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:08:38.6588103+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:08:44.6638493+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:08:44.6657580+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:08:45.0498491+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:08:45.0799434+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:08:45.0799858+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:08:45.0896640+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:08:51.1073614+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:08:51.1087013+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:08:51.4237919+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:08:51.4504955+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:08:51.4505972+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:08:51.4587511+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:08:57.4690188+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:08:57.4709020+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:08:57.9359930+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:08:57.9909233+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:08:57.9910739+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:08:58.0005041+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds
+2022-06-26T22:09:04.0061128+06:00 [INF] (ActiveXTService.Worker) 1::--Service Resume
+2022-06-26T22:09:04.0071323+06:00 [INF] (ActiveXTService.Worker) 2:: Get File Max Time
+2022-06-26T22:09:04.4763300+06:00 [INF] (ActiveXTService.Worker) 3::--SFTP connection stablished
+2022-06-26T22:09:04.5079771+06:00 [INF] (ActiveXTService.Worker) 4::--SFTP File found on server::--
+2022-06-26T22:09:04.5080700+06:00 [INF] (ActiveXTService.Worker) 7::--SFTP Closse::--
+2022-06-26T22:09:04.5163285+06:00 [INF] (ActiveXTService.Worker) 9::--Service sleep for Next 6 Seconds

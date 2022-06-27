@@ -1,0 +1,14 @@
+C:\temp\ActiveXTService.Data\bin\Debug\net6.0\ActiveXTService.Data.deps.json
+C:\temp\ActiveXTService.Data\bin\Debug\net6.0\ActiveXTService.Data.runtimeconfig.json
+C:\temp\ActiveXTService.Data\bin\Debug\net6.0\ActiveXTService.Data.dll
+C:\temp\ActiveXTService.Data\bin\Debug\net6.0\ref\ActiveXTService.Data.dll
+C:\temp\ActiveXTService.Data\bin\Debug\net6.0\ActiveXTService.Data.pdb
+C:\temp\ActiveXTService.Data\obj\Debug\net6.0\ActiveXTService.Data.csproj.AssemblyReference.cache
+C:\temp\ActiveXTService.Data\obj\Debug\net6.0\ActiveXTService.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ActiveXTService.Data\obj\Debug\net6.0\ActiveXTService.Data.AssemblyInfoInputs.cache
+C:\temp\ActiveXTService.Data\obj\Debug\net6.0\ActiveXTService.Data.AssemblyInfo.cs
+C:\temp\ActiveXTService.Data\obj\Debug\net6.0\ActiveXTService.Data.csproj.CoreCompileInputs.cache
+C:\temp\ActiveXTService.Data\obj\Debug\net6.0\ActiveXTService.Data.dll
+C:\temp\ActiveXTService.Data\obj\Debug\net6.0\ref\ActiveXTService.Data.dll
+C:\temp\ActiveXTService.Data\obj\Debug\net6.0\ActiveXTService.Data.pdb
+C:\temp\ActiveXTService.Data\obj\Debug\net6.0\ActiveXTService.Data.genruntimeconfig.cache
